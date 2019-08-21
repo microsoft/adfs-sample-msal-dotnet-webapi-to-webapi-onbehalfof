@@ -215,9 +215,7 @@ Once the code changes are made rebuild the solution
   6. Once signed-in, enter text Web Api to Web Api Call in the **Create a To Do item**. Click **Add item**.  This will call the Web API (To Do List Service) which then calls Web API 2 (WebAPIOBO) and adds the item in the cache.  
  
       ![App Reg](media/webapi33.png)
- 
- ## Next Steps
-[AD FS OpenID Connect/OAuth flows and Application Scenarios](../../overview/ad-fs-scenarios-for-developers.md)
+
 
 ## Contributing
 
